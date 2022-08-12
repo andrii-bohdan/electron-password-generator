@@ -1,0 +1,14 @@
+{
+  "name": "password-generator",
+  "version": "1.0.0",
+  "description": "Simple password generator",
+  "main": "main.js",
+  "author": "Andriy Bohdan",
+  "license": "MIT",
+  "scripts": {
+    "start": "electron ."
+  },
+  "dependencies": {
+    "electron": "^20.0.2"
+  }
+}
